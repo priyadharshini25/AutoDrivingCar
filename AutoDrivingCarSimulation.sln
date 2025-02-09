@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDrivingCarSimulation", "AutoDrivingCarSimulation.csproj", "{FD103732-0CCB-46AA-BAB6-CAF3DCBEDB29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD103732-0CCB-46AA-BAB6-CAF3DCBEDB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD103732-0CCB-46AA-BAB6-CAF3DCBEDB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD103732-0CCB-46AA-BAB6-CAF3DCBEDB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD103732-0CCB-46AA-BAB6-CAF3DCBEDB29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59170106-AC41-4CB7-BDF5-C2BF8F7B0A01}
+	EndGlobalSection
+EndGlobal

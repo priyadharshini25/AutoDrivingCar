@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\bin\Debug\net8.0\AutoDrivingCarSimulation.exe
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\bin\Debug\net8.0\AutoDrivingCarSimulation.deps.json
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\bin\Debug\net8.0\AutoDrivingCarSimulation.runtimeconfig.json
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\bin\Debug\net8.0\AutoDrivingCarSimulation.dll
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\bin\Debug\net8.0\AutoDrivingCarSimulation.pdb
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.AssemblyInfo.cs
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.sourcelink.json
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.dll
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\refint\AutoDrivingCarSimulation.dll
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.pdb
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\AutoDrivingCarSimulation.genruntimeconfig.cache
+C:\Users\HP\source\repos\AutoDrivingCarSimulation\obj\Debug\net8.0\ref\AutoDrivingCarSimulation.dll
